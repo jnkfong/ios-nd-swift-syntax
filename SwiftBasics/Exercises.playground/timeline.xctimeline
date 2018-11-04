@@ -2,5 +2,20 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jamesfong/Projects/XCode%20Projects/ios-nd-swift-syntax/SwiftBasics/Exercises.playground#CharacterRangeLen=17&amp;CharacterRangeLoc=1003&amp;EndingColumnNumber=22&amp;EndingLineNumber=18&amp;StartingColumnNumber=5&amp;StartingLineNumber=18&amp;Timestamp=562987838.1270421"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jamesfong/Projects/XCode%20Projects/ios-nd-swift-syntax/SwiftBasics/Exercises.playground#CharacterRangeLen=54&amp;CharacterRangeLoc=2882&amp;EndingColumnNumber=0&amp;EndingLineNumber=54&amp;StartingColumnNumber=19&amp;StartingLineNumber=53&amp;Timestamp=562987838.127187"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jamesfong/Projects/XCode%20Projects/ios-nd-swift-syntax/SwiftBasics/Exercises.playground#CharacterRangeLen=53&amp;CharacterRangeLoc=2883&amp;EndingColumnNumber=0&amp;EndingLineNumber=54&amp;StartingColumnNumber=20&amp;StartingLineNumber=53&amp;Timestamp=562987838.127297"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
